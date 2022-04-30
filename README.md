@@ -1,6 +1,6 @@
 #Case Insensitive YOURLS Makes YOURLS case insensitive
 
-YOURLS version: 1.9+
+Supported YOURLS version: 1.9+
 
 ####Example use cases:
 
